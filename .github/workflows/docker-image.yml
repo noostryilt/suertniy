@@ -22,7 +22,7 @@ jobs:
       -
         name: Build and push
         id: docker_build
-        uses: nouswe/huertv
+        uses: nouswe/dyuirt
         with:
           push: true
           tags: koypamil/kk
